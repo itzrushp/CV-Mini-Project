@@ -34,6 +34,13 @@ This project demonstrates two methods to perform **image segmentation** and extr
 - Side-by-side visual comparison
 - Easy to switch and test on different images
 
+ #### 📌 Comparison
+| Feature | GrabCut | Threshold + Contours |
+|--------|---------|-----------------------|
+| Accuracy | High (adaptive) | Medium (depends on contrast) |
+| Input | RGB + rectangle | Grayscale |
+| Robustness | Works well with complex backgrounds | Limited to clean backgrounds |
+
 
 ## ⚙️ Requirements
 
