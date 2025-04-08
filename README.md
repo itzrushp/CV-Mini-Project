@@ -41,6 +41,18 @@ This project demonstrates two methods to perform **image segmentation** and extr
 | Input | RGB + rectangle | Grayscale |
 | Robustness | Works well with complex backgrounds | Limited to clean backgrounds |
 
+# 📌 Shi-Tomasi Corner Detection using OpenCV
+
+This project demonstrates the Shi-Tomasi algorithm to detect and visualize corner points in an image.
+
+## 🧠 What is Shi-Tomasi?
+Shi-Tomasi is a corner detection algorithm used to identify strong interest points in an image. These corners can be used in further tasks like object tracking, motion estimation, and 3D reconstruction.
+
+## 🎯 Features
+- Detects up to 100 strongest corners in an image
+- Marks them with green circles
+- Easy to apply on any image
+
 
 ## ⚙️ Requirements
 
