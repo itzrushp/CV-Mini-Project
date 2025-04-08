@@ -22,7 +22,17 @@ This project detects human faces in images and webcam feed using OpenCV's Haar C
 | `blurred_output.jpg` | Output image with blurred faces |
 | `README.md` | This file |
 
+Implementation 02 :
+# Image Segmentation using GrabCut and Thresholding
 
+This project demonstrates two methods to perform **image segmentation** and extract foreground objects such as a fruit, a person, or any prominent shape using OpenCV.
+
+## ✨ Features
+
+- GrabCut-based segmentation using a rectangle to isolate the foreground
+- Thresholding + contour-based segmentation
+- Side-by-side visual comparison
+- Easy to switch and test on different images
 
 
 ## ⚙️ Requirements
